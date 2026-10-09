@@ -92,6 +92,7 @@ parity = [
 
 # Development dependencies
 dev = [
+    "httpx>=0.27",
     "pytest>=7.0.0",
     "pytest-asyncio>=1.0.0",
     "black>=24.2.0",
